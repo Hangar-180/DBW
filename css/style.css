@@ -10,6 +10,8 @@
     padding: 50px;
 }
 body{
+    background-color: rgb(0, 0, 0);
+    font-family: "Open Sans", "sans-serif";
     box-sizing: border-box;
     background-color: black;
     color:white;
@@ -106,4 +108,14 @@ body{
         font-size: 1.2rem;
         font-weight: 200;
     }
+}
+
+a{
+    text-decoration: none;
+    color: #fff;    
+    font-size: 16px;
+}
+a:hover{
+    color: #ccc;
+    font-size: 18px;
 }
